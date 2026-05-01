@@ -63,7 +63,7 @@ export const translations = {
       },
     },
     footer: {
-      rights: '© 2024 M. Fahmi Hafidz B — All rights reserved.',
+      rights: '© 2026 M. Fahmi Hafidz B — All rights reserved.',
     },
   },
 
@@ -131,7 +131,7 @@ export const translations = {
       },
     },
     footer: {
-      rights: '© 2024 M. Fahmi Hafidz B — Semua hak dilindungi.',
+      rights: '© 2026 M. Fahmi Hafidz B — Semua hak dilindungi.',
     },
   },
 };

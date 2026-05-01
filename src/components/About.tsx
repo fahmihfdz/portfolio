@@ -12,7 +12,7 @@ export default function About() {
 
   const stats = [
     { label: t.about.stats.projects, value: "20+", icon: Briefcase },
-    { label: t.about.stats.experience, value: "2yr", icon: GraduationCap },
+    { label: t.about.stats.experience, value: "1yr", icon: GraduationCap },
     { label: t.about.stats.coffees, value: "∞", icon: Coffee },
   ];
 
