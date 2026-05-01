@@ -11,7 +11,7 @@ export default function About() {
   const { t } = useLang();
 
   const stats = [
-    { label: t.about.stats.projects, value: "20+", icon: Briefcase },
+    { label: t.about.stats.projects, value: "10+", icon: Briefcase },
     { label: t.about.stats.experience, value: "1yr", icon: GraduationCap },
     { label: t.about.stats.coffees, value: "∞", icon: Coffee },
   ];
