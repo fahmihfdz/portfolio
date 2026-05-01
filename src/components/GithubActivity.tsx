@@ -71,7 +71,7 @@ export default function GithubActivity() {
                   className="w-full"
                 />
                 <img
-                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmihfdz&layout=compact&theme=dark&bg_color=161616&title_color=c9a84c&text_color=888888&border_color=2a2a2a&cache_seconds=1800"
+                  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahmihfdz&theme=dark"
                   alt="Top Languages"
                   className="w-full"
                 />
