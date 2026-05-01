@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 import { SectionHeader } from "./About";
-import { useThemeContext } from '../contexts/ThemeContext';
+import { useThemeContext } from "../contexts/ThemeContext";
 
 export default function GithubActivity() {
   const { theme } = useThemeContext();
@@ -63,15 +63,15 @@ export default function GithubActivity() {
                 />
               </div>
 
-              {/* Stats dari GitHub readme stats */}
+              {/* Stats */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
                 <img
-                  src="https://github-readme-stats.vercel.app/api?username=fahmihfdz&show_icons=true&theme=dark&bg_color=161616&title_color=c9a84c&icon_color=c9a84c&text_color=888888&border_color=2a2a2a&hide_border=false"
-                  alt="GitHub Stats"
+                  src="https://streak-stats.demolab.com?user=fahmihfdz&theme=dark&background=161616&border=2a2a2a&stroke=c9a84c&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=888888&currStreakNum=e8e8e8&sideNums=e8e8e8&dates=888888"
+                  alt="GitHub Streak"
                   className="w-full"
                 />
                 <img
-                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmihfdz&layout=compact&theme=dark&bg_color=161616&title_color=c9a84c&text_color=888888&border_color=2a2a2a"
+                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmihfdz&layout=compact&theme=dark&bg_color=161616&title_color=c9a84c&text_color=888888&border_color=2a2a2a&cache_seconds=1800"
                   alt="Top Languages"
                   className="w-full"
                 />
