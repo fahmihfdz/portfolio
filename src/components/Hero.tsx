@@ -220,7 +220,7 @@ function IDCard({ t }: { t: any }) {
               style={{ boxShadow: '0 0 20px rgba(201,168,76,0.3)' }}
             >
               <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-gold/10 to-card">
-                <img src="/assets/profil.png" className="w-full h-full object-cover" />
+                <img src="/public/assets/profil.png" className="w-full h-full object-cover" />
               </div>
             </div>
             <div className="absolute -bottom-1 -right-1 w-5 h-5 bg-green rounded-full border-2 border-card flex items-center justify-center">

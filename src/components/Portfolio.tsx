@@ -15,7 +15,7 @@ const projects = [
     color: '#c9a84c',
     year: '2025',
     status: 'LIVE',
-    image: '/assets/port3.png',
+    image: 'public/assets/port3.png',
   },
   {
     id: 2,
@@ -26,7 +26,7 @@ const projects = [
     color: '#22d3ee',
     year: '2025',
     status: 'COMPLETE',
-    image: '/assets/port2.png',
+    image: 'public/assets/port2.png',
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ const projects = [
     color: '#4ade80',
     year: '2026',
     status: 'COMPLETE',
-    image: '/assets/port1.png',
+    image: 'public/assets/port1.png',
   },
 ];
 
