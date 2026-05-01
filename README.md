@@ -119,7 +119,6 @@ Edit file berikut sesuai data kamu:
 | `src/i18n/translations.ts` | Semua teks ID/EN |
 
 ### Ganti foto profil
-
 Letakkan foto di `assets/profil.png`.
 
 ### Ganti CV
