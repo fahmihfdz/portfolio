@@ -11,7 +11,7 @@ export const translations = {
     },
     hero: {
       greeting: '// Hi, My Name Is',
-      location: 'Indramayu, Jawa Barat',
+      location: 'Indramayu, West Java',
       desc: 'Building scalable web applications with clean code and modern technologies. Passionate about creating seamless digital experiences from frontend to backend. Available for new opportunities.',
       viewWork: 'VIEW_WORK',
       getInTouch: 'GET_IN_TOUCH',
@@ -79,7 +79,7 @@ export const translations = {
     },
     hero: {
       greeting: '// Hai, Nama Saya',
-      location: 'Islamabad, Pakistan',
+      location: 'Indramayu, Jawa Barat',
       desc: 'Membangun aplikasi web yang skalabel dengan kode bersih dan teknologi modern. Bersemangat menciptakan pengalaman digital yang mulus dari frontend hingga backend. Tersedia untuk peluang baru.',
       viewWork: 'LIHAT_KARYA',
       getInTouch: 'HUBUNGI_SAYA',
